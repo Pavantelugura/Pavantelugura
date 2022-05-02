@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Data Science
 - 📫 How to reach me **pavantelugura.96@gmail.com**
 - 😄 Pronouns:Mr. | He
-- ⚡ Fun fact: Like to work in any Organization
+- ⚡ Fun fact: Like to collaborate in a Organization.
 
 I have technical skills and interest in -
    * Machine Learning
