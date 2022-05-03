@@ -24,8 +24,7 @@ I have technical skills and interest in -
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pavan t s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan t s" height="30" width="40" /></a>
-<a href="https://kaggle.com/pavan telugura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pavan telugura" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pavan-ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan t s" height="30" width="40" /></a>
 <a href="https://fb.com/pavan telugura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pavan telugura" height="30" width="40" /></a>
 <a href="https://instagram.com/pavan telugura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavan telugura" height="30" width="40" /></a>
 <a href="https://discord.gg/Pavan_Telugura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pavan_Telugura" height="30" width="40" /></a>
